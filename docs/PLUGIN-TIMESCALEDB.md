@@ -6,9 +6,7 @@
 
 ## Índice
 
-1. [Vis
-
-ão Geral](#visão-geral)
+1. [Visão Geral](#visão-geral)
 2. [Arquitetura](#arquitetura)
 3. [Componentes](#componentes)
 4. [Fluxo de Dados](#fluxo-de-dados)
